@@ -24,7 +24,7 @@ The app includes **Amharic translations** to make it more accessible to local us
 ---
 
 ## 📸 Screenshot
-(https://github.com/johnosoco/relief-therapy-app/blob/main/relieftherapyScreenshot.jpg)
+https://github.com/johnosoco/relief-therapy-app/blob/5cc3f9203a027c3855890bce1a617418715e146b/relieftherapyScreenshot.jpg
 ```markdown
 ![Relief Therapy Screenshot](assets/screenshot.png)
 # 🌿 Relief Therapy App
@@ -57,7 +57,7 @@ The app includes **Amharic translations** to make it more accessible to local us
 ---
 
 ## 📸 Screenshot
-*relieftherapyScreenshot.jpg 
+[screenshot](https://github.com/johnosoco/relief-therapy-app/blob/5cc3f9203a027c3855890bce1a617418715e146b/relieftherapyScreenshot.jpg)
 ```markdown
 ![Relief Therapy Screenshot](assets/screenshot.png)
 Clone this repository:
