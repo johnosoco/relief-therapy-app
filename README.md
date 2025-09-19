@@ -24,10 +24,14 @@ The app includes **Amharic translations** to make it more accessible to local us
 ---
 
 ## 📸 Screenshot
-*(Add a screenshot of the app running here later — example below)*  
+[*(Add a screenshot of the app running here later — example below)*  ](https://github.com/johnosoco/relief-therapy-app/blob/main/relieftherapyScreenshot.jpg)
 ```markdown
 ![Relief Therapy Screenshot](assets/screenshot.png)
 # 🌿 Relief Therapy App
+## 📸 Screenshot
+
+![Relief Therapy Screenshot](https://raw.githubusercontent.com/johnosoco/relief-therapy-app/main/screenshot.png)
+
 
 **Relief Therapy App** is a modern wellness and therapy application built with **Expo** and **React Native**.  
 It helps users manage stress, track mental health progress, and access self-care resources.  
