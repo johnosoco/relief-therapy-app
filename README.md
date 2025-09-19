@@ -57,7 +57,7 @@ The app includes **Amharic translations** to make it more accessible to local us
 ---
 
 ## 📸 Screenshot
-*(Add a screenshot of the app running here later — example below)*  
+*relieftherapyScreenshot.jpg 
 ```markdown
 ![Relief Therapy Screenshot](assets/screenshot.png)
 Clone this repository:
