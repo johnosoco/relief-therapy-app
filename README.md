@@ -24,7 +24,7 @@ The app includes **Amharic translations** to make it more accessible to local us
 ---
 
 ## 📸 Screenshot
-[*(Add a screenshot of the app running here later — example below)*  ](https://github.com/johnosoco/relief-therapy-app/blob/main/relieftherapyScreenshot.jpg)
+(https://github.com/johnosoco/relief-therapy-app/blob/main/relieftherapyScreenshot.jpg)
 ```markdown
 ![Relief Therapy Screenshot](assets/screenshot.png)
 # 🌿 Relief Therapy App
